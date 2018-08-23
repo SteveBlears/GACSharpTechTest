@@ -1,0 +1,10 @@
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\bin\Debug\GATechTest.exe.config
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\bin\Debug\GATechTest.exe
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\bin\Debug\GATechTest.pdb
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\obj\Debug\GATechTest.csprojAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\obj\Debug\GATechTest.Form1.resources
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\obj\Debug\GATechTest.Properties.Resources.resources
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\obj\Debug\GATechTest.csproj.GenerateResource.cache
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\obj\Debug\GATechTest.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\obj\Debug\GATechTest.exe
+C:\Users\Steve\Documents\Visual Studio 2017\Projects\GATechTest\GATechTest\obj\Debug\GATechTest.pdb
